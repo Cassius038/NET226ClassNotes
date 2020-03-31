@@ -5,3 +5,5 @@
 3. Test to make sure each individuals repo exists within the Master NET226ClassNotes Repo
 
 Hello everyone. Please open up Visual Studio Code and Github Desktop. If you do not have these, please install them.
+
+- Its good to know everyone is having a good day. I hope you all are successful in the future. 
